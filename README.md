@@ -1,12 +1,6 @@
 # GreenBin
 
-GreenBin is a full-stack application built with a **Node.js** backend and a **React** frontend, maintained as separate repositories.
-
-## 📂 Project Repositories
-- **Backend (Node.js Express API)**: [GreenBin Backend](https://github.com/yourusername/greenbin-backend)
-- **Frontend (React Application)**: [GreenBin Frontend](https://github.com/yourusername/greenbin-frontend)
-
----
+GreenBin is a full-stack application built with a **Node.js** backend and a **React** frontend, maintained as mini monorepo setup.
 
 ## 🛠️ Setup Instructions
 
